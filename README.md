@@ -61,5 +61,5 @@ Here is the basic structure with stub or empty files in place.
     │   └── thing1.jpg
     ├── index.html
     └── js
-        └── lab.js
+        └── lab.js      
 ```

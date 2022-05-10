@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+}
+
+p {
+  margin-top: 140px;
+  margin-bottom: 140px;
+  margin-right: 180px;
+  margin-left: 100px;
+}
+
+h2.solid {border-style: solid;}
