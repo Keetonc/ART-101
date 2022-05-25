@@ -3,10 +3,11 @@ body {
 }
 
 p {
-  margin-top: 140px;
-  margin-bottom: 140px;
-  margin-right: 180px;
-  margin-left: 100px;
+  margin-top: 80px;
+  margin-bottom: 70px;
+  margin-right: 200px;
+  margin-left: 40px;
+  font-size: 30px;
 }
 
 h2.solid {border-style: solid;}
